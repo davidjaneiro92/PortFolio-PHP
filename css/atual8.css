@@ -1,0 +1,18 @@
+.foto-david {
+    width: 450px;
+    height: 580px;
+}
+
+.fot {
+    width: 124px;
+    height: 70px;
+}
+
+.foto1:hover {
+    transform: scale(1.1);
+}
+
+.foto {
+    width: 680px;
+    height: 500px;
+}

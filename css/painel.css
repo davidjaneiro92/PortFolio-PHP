@@ -1,0 +1,36 @@
+body {
+    background-color: #fbfbfb;
+}
+
+.nome_usuario {
+    color: #efefef !important;
+}
+
+#sidebar-wrapper {
+    margin-left: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    padding: 0.875rem 1.25rem;
+    font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+    width: 15rem;
+}
+
+.ativo {
+    color: #FFF;
+    background-color: #343a40;
+}
+
+.container_admin {
+    margin-top: 80px;
+}
+
+.area_cards {
+    margin-left: 30px;
+    margin-right: 15px;
+}
